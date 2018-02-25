@@ -10,7 +10,7 @@
 
 
 ## Description
-- got to your console  
+- go to your console  
 - then enter the user name and password in login screen
 - username: washington
 - password: password987
